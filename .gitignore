@@ -1,0 +1,6 @@
+# ignore data and model artifacts
+mlware1/dataset/*
+mlware1/models/*
+*.pkl
+*.h5
+*.ckpt
